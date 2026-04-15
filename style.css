@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+}
+
+.box {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 900px;
+    padding: 50px;
+    padding-right: 50%;
+    padding-bottom: 30%;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.link-row {
+    font-size: 24px;
+    margin: 0;
+}
