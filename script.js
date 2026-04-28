@@ -1,7 +1,7 @@
 const sites = [
     "https://www.delfi.ee/",
     "https://www.postimees.ee/",
-    "https://puhkaeestis.ee/et",
+    "https://www.puhkaeestis.ee/et",
     "https://www.ohtuleht.ee/",
     "https://www.telia.ee/",
 
@@ -16,7 +16,7 @@ const sites = [
     "https://www.taltech.ee/",
     "https://www.ria.ee/",
     "https://www.eesti.ee/",
-    
+
     "https://www.emta.ee/",
     "https://www.riigikogu.ee/",
     "https://www.valitsus.ee/",
@@ -24,7 +24,7 @@ const sites = [
     "https://www.transpordiamet.ee/",
 
     "https://www.err.ee/",
-    "https://www.eesti.ee/",
+    "https://www.omniva.ee/",
     "https://et.wikipedia.org/",
     "https://www.tele2.ee/",
     "https://www.cv.ee/"
